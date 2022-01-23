@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Magdum</h1>
-<h3 align="center">A Data Analyst who loves to explore newly Data Science world.</h3>
+<h3 align="center">A Data Analyst who loves to explore  Data Science world.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha565476" alt="sneha565476" /></a> </p>
 
